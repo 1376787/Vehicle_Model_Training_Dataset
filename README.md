@@ -9,6 +9,13 @@ The space required for the dataset exceeds the limitations of GitHub. If you nee
 
 If you use this dataset please cite the following paper
 
-~~~h~~~
+~~~
+@inproceedings{ramanishka2018CVPR,
+    author    = {Vasili Ramanishka and Yi-Ting Chen and Teruhisa Misu and Kate Saenko},
+    title     = {Toward Driving Scene Understanding: A Dataset for Learning Driver Behavior and Causal Reasoning},
+    booktitle = {Conference on Computer Vision and Pattern Recognition (CVPR)},
+    year      = {2018}
+}
+~~~
 
 
